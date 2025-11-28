@@ -17,6 +17,7 @@
 
 [[main]]
  name = "Open Source Contributions"
+ pageRef= "opensource"
  weight = 20
 
 # [[main]]
