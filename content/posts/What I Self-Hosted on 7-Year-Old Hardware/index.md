@@ -15,7 +15,7 @@ tags:
     "grist",
     "dawarich",
     "Airtrail",
-    "vaultwarden",
+    "vaultwarden"
   ]
 featureimage: "https://images.unsplash.com/photo-1757484965213-8393e82789fe?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 showHero: true
@@ -55,8 +55,7 @@ Recently, I migrated all our notes from applications like Notion, Google Keep, a
 ![joplin](images/joplin.png)
 
 ## 7. [Vaultwarden](https://www.vaultwarden.net/)
-
-For my password manager, I'm using Vaultwarden. I hooked it into the Bitwarden client, and it works flawlessly. I love how nicely it integrates and that it requires very few resources.
+For my password manager, I'm using Vaultwarden. I hooked it into the Bitwarden client, and it works flawlessly. I love how nicely it integrates and that it requires very few resources. 
 
 ![vaultwarden](images/vaultwarden.png)
 
