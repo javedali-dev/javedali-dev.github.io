@@ -8,7 +8,7 @@ featureimage: "https://gitlab.com/uploads/-/system/group/avatar/12445836/fedora.
 showHero: true
 heroStyle: "thumbAndBackground"
 showSummary: true
-externalUrl: "https://pagure.io/fedora-workstation/pull-request/474#"
+externalUrl: "https://forge.fedoraproject.org/workstation/user-docs/pulls/474"
 build:
   render: "false"
   list: "local"
